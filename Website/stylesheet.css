@@ -1,3 +1,22 @@
-#about{
-    background-color: aquamarine;
+#about {
+    background: repeating-radial-gradient(circle at center,
+            #dc143c 0px,
+            #f5f5dc 10px,
+            #87ceeb 20px,
+            #9acd32 30px);
+
+    position: fixed;
+    bottom: 103px;
+    padding: 10px;
+}
+
+#body {
+    background: repeating-radial-gradient(
+  circle at center, 
+  #dc143c 0px, 
+  #f5f5dc 10px, 
+  #87ceeb 20px,
+  #9acd32 30px
+);
+
 }
